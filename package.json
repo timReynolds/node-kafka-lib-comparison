@@ -1,0 +1,25 @@
+{
+  "name": "kafka-lib-comparison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timReynolds/node-kafka-lib-comparison.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timReynolds/node-kafka-lib-comparison/issues"
+  },
+  "homepage": "https://github.com/timReynolds/node-kafka-lib-comparison#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "kafkajs": "^2.2.3",
+    "no-kafka": "^3.4.3",
+    "node-rdkafka": "^2.14.0"
+  }
+}
